@@ -59,7 +59,7 @@ A collection of blocklists downloaded from GitHub, converted into a format compa
 | Security - Torrents            | https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt                                                             |
 | Privacy - Telemetry            | https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt                                                            |
 | Security - DoH                 | https://raw.githubusercontent.com/m-akami/InternetBlocklists/main/apple-doh.txt                                                 |
-
+| Social Media - Snapchat        | https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Snapchat/snapchatblocklist.txt                          |
 
 | List                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------- |
