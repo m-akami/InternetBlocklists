@@ -117,3 +117,5 @@ A collection of blocklists downloaded from GitHub, converted into a format compa
 | https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt                                                             |
 | https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt                                                            |
 | https://raw.githubusercontent.com/m-akami/InternetBlocklists/main/apple-doh.txt                                                 |
+
+https://raw.githubusercontent.com/m-akami/InternetBlocklists/main/test.txt
