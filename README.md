@@ -28,7 +28,7 @@ A collection of blocklists downloaded from GitHub, converted into a format compa
 | Privacy - Telemetry            | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt                                                   |
 | Privacy - Telemetry            | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt                                              |
 | Privacy - Telemetry            | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt                                                  |
-| Security - Malware             | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
+| Security - Malware [ERR]       | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
 | Security - Threat Intelligence | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt                                                               |
 | Security - Cryptocurrency      | https://v.firebog.net/hosts/Prigent-Crypto.txt                                                                                  |
 | Security - Spam                | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts                                                   |
