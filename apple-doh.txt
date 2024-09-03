@@ -8,3 +8,4 @@ mask.apple-dns.net
 canary.mask.apple-dns.net
 mask-api.fe2.apple-dns.net
 0.0.0.0 example.com
+example.com
