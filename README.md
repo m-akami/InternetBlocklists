@@ -40,3 +40,21 @@ A collection of blocklists downloaded from GitHub, converted into a format compa
 | Security - Malware             | https://v.firebog.net/hosts/Prigent-Malware.txt                                                                                 |
 | Safety - Inappropriate Content | https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list                   |
 | Safety - Inappropriate Content | https://v.firebog.net/hosts/Prigent-Adult.txt                                                                                   |
+| Security - DoH                 | https://raw.githubusercontent.com/jameshas/Public-DoH-Lists/main/doh_static_known_domains.txt                                   |
+| Security - DoH                 | https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains_overall.txt                                       |
+| Security - Spam                | https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt                                                               |
+| Privacy - Advertisements       | https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt                                                                 |
+| Security - Cryptocurrency      | https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt                                                              |
+| Safety - Drugs                 | https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt                                                               |
+| Security - Fraud               | https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt                                                               |
+| Safety - Gambling              | https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt                                                            |
+| Security - Malware             | https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt                                                             |
+| Security - Phishing            | https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt                                                            |
+| Security - Piracy              | https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt                                                              |
+| Safety - Inappropriate Content | https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt                                                                |
+| Security - Ransomware          | https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt                                                          |
+| Security - Redirects           | https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt                                                            |
+| Security - Scams               | https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt                                                                |
+| Social Media - TikTok          | https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt                                                              |
+| Security - Torrents            | https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt                                                             |
+| Privacy - Telemetry            | https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt                                                            |
