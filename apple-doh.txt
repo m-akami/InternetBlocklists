@@ -6,3 +6,4 @@ mask-api.icloud.com
 mask-canary.icloud.com
 mask.apple-dns.net
 canary.mask.apple-dns.net
+mask-api.fe2.apple-dns.net
