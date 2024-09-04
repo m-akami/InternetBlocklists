@@ -96,7 +96,7 @@
 0.0.0.0 aws-proxy-gcp.api.sc-gw.com
 0.0.0.0 us-central1-gcp.api.sc-gw.com
 0.0.0.0 *.sc-gw.com
-0.0.0.0 *.snapchat.com
+# 0.0.0.0 *.snapchat.com
 
 # Location
 0.0.0.0 loca.sc-jpl.com
