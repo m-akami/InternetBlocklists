@@ -8,7 +8,7 @@
 
 
 # Snapchat Chat
-0.0.0.0 chat-gateway-prod.chat.snapchat.com
+# 0.0.0.0 chat-gateway-prod.chat.snapchat.com
 
 # Snapchat Website
 0.0.0.0 www.snapchat.com
@@ -22,8 +22,8 @@
 0.0.0.0 mvm.snapchat.com
 
 # Snapchat Login
-0.0.0.0 pro-accounts.snapchat.com
-0.0.0.0 auth.snapchat.com
+# 0.0.0.0 pro-accounts.snapchat.com
+# 0.0.0.0 auth.snapchat.com
 
 # Snapkit
 0.0.0.0 api.snapkit.com
